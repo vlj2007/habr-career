@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Яндекс",
+    "rating": "3.60",
+    "vacancies": "55 вакансий",
+    "skills": "Python • SQL • Java • PostgreSQL • Golang • Linux • C++ • React • JavaScript • Kotlin",
+    "links": "https://career.habr.com/companies/yandex/vacancies"
+  },
+  {
+    "title": "2GIS",
+    "rating": "4.67",
+    "vacancies": "20 вакансий",
+    "skills": "Python • SQL • PostgreSQL • Kubernetes • Golang • C++ • Git • Управление людьми • Docker • Автоматизация тестирования",
+    "links": "https://career.habr.com/companies/2gis/vacancies"
+  },
+  {
+    "title": "Т-Банк",
+    "rating": "4.14",
+    "vacancies": "20 вакансий",
+    "skills": "SQL • Java • Python • PostgreSQL • Apache Kafka • Docker • Git • Базы данных • Kubernetes • JavaScript",
+    "links": "https://career.habr.com/companies/tbank/vacancies"
+  },
+  {
+    "title": "Eltex",
+    "rating": "4.67",
+    "vacancies": "15 вакансий",
+    "skills": "Linux • Git • Python • Docker • C • VoIP • TCP • Телекоммуникации • SQL • SIP",
+    "links": "https://career.habr.com/companies/eltex/vacancies"
+  },
+  {
+    "title": "VK",
+    "rating": "4.14",
+    "vacancies": "12 вакансий",
+    "skills": "Linux • Golang • Python • Git • JavaScript • React • Docker • Kubernetes • TypeScript • PostgreSQL",
+    "links": "https://career.habr.com/companies/vk/vacancies"
+  },
+  {
+    "title": "РТК-ЦОД",
+    "rating": "N/A",
+    "vacancies": "6 вакансий",
+    "skills": "Linux • Python • Техническая поддержка • PostgreSQL • Kubernetes • Bash • CI/CD • Zabbix • Установка и обслуживание офисной техники • Docker",
+    "links": "https://career.habr.com/companies/rt-dc/vacancies"
+  },
+  {
+    "title": "SM Lab",
+    "rating": "4.38",
+    "vacancies": "5 вакансий",
+    "skills": "SQL • XML • JavaScript • SOAP • Web • Oracle PL/SQL • Python • C# • PWA • OLAP",
+    "links": "https://career.habr.com/companies/smlab/vacancies"
+  },
+  {
+    "title": "Контур",
+    "rating": "4.40",
+    "vacancies": "4 вакансии",
+    "skills": "Python • SQL • PostgreSQL • Git • TypeScript • React • Linux • C# • Kubernetes • Apache Kafka",
+    "links": "https://career.habr.com/companies/skbkontur/vacancies"
+  },
+  {
+    "title": "ЭЛСИ Энергопроект",
+    "rating": "N/A",
+    "vacancies": "4 вакансии",
+    "skills": "Проектирование • AutoCAD • Ведение переговоров",
+    "links": "https://career.habr.com/companies/elsi-pro/vacancies"
+  },
+  {
+    "title": "Greenway Global",
+    "rating": "4.76",
+    "vacancies": "3 вакансии",
+    "skills": "Python • SQL • Redis • RabbitMQ • MySQL • Git • Анализ данных • PHP • 1C: ERP • PostgreSQL",
+    "links": "https://career.habr.com/companies/greenwayglobal/vacancies"
+  },
+  {
+    "title": "Атом Безопасность",
+    "rating": "N/A",
+    "vacancies": "2 вакансии",
+    "skills": "Python • Linux",
+    "links": "https://career.habr.com/companies/staffcop/vacancies"
+  },
+  {
+    "title": "Digital Clouds",
+    "rating": "N/A",
+    "vacancies": "2 вакансии",
+    "skills": "N/A",
+    "links": "https://career.habr.com/companies/dclouds/vacancies"
+  },
+  {
+    "title": "Центр Финансовых Технологий",
+    "rating": "N/A",
+    "vacancies": "1 вакансия",
+    "skills": "SQL • Git • JavaScript • PostgreSQL • Автоматизация процессов • Тестирование API • Jira • Английский язык • Планирование • Работа в команде",
+    "links": "https://career.habr.com/companies/cft/vacancies"
+  },
+  {
+    "title": "BGStaff",
+    "rating": "N/A",
+    "vacancies": "2 вакансии",
+    "skills": "Разработка под 1С • SQL • 1C: ERP • PHP • MySQL • JavaScript • Яндекс.Метрика • PostgreSQL • Системная аналитика",
+    "links": "https://career.habr.com/companies/bgstaff/vacancies"
+  },
+  {
+    "title": "СберТех",
+    "rating": "4.54",
+    "vacancies": "1 вакансия",
+    "skills": "PostgreSQL • Linux • Docker • Git • Kubernetes • Python • Java • Apache Kafka • SQL • Golang",
+    "links": "https://career.habr.com/companies/sbertech/vacancies"
+  },
+  {
+    "title": "Диасофт",
+    "rating": "3.95",
+    "vacancies": "1 вакансия",
+    "skills": "SQL • Apache Kafka • Git • Oracle • REST • BPMN",
+    "links": "https://career.habr.com/companies/diasoft/vacancies"
+  },
+  {
+    "title": "РТЛабс",
+    "rating": "4.18",
+    "vacancies": "1 вакансия",
+    "skills": "PostgreSQL • SQL • JSON • Docker • Linux • Java • SOAP • Apache Kafka • Kubernetes • BPMN",
+    "links": "https://career.habr.com/companies/rtlabs/vacancies"
+  },
+  {
+    "title": "iFellow",
+    "rating": "4.64",
+    "vacancies": "1 вакансия",
+    "skills": "SQL • Java • Docker • Kubernetes • Apache Kafka • Подбор специалистов • Jira • Проектирование информационных систем • REST • Postman",
+    "links": "https://career.habr.com/companies/ifellow/vacancies"
+  }
+]
