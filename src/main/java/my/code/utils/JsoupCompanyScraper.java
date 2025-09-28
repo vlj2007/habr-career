@@ -14,7 +14,24 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * Класс для подключения к сайту "https://career.habr.com" и сбора данных.
+ * Определяет методы для сбора данных, проверка данных.
+ *
+ * @author Vlj2007
+ * @version 0.1
+ */
+
 public class JsoupCompanyScraper implements CompanyScraper {
+
+    /**
+     * Сбор данных с сайта с заданными параметрами.
+     *
+     * @param url адрес сайта
+     * @return companyList список компаний
+     * @throws ScraperException если сайт не найден
+     */
+
     private static final int MAX_RETRIES = 5;
     private static final int TIMEOUT = 4000;
     private static final Random RANDOM = new Random();
