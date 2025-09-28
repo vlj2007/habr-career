@@ -2,6 +2,7 @@ package my.code.model;
 
 /**
  * Класс model со свойствами <b>title</b>, <b>rating</b>, <b>vacancies</b>, <b>skills</b>, <b>links</b>.
+ *
  * @author Vlj2007
  * @version 0.1
  */
